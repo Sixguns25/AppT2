@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550349414989",
+    "project_id": "fir-t2-48a67",
+    "storage_bucket": "fir-t2-48a67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550349414989:android:b43041c6cdb4c8b97bb204",
+        "android_client_info": {
+          "package_name": "com.espino.firebaset2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDki6nCdC25IbeB6cf0xAg__9ImXT0Xa9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
