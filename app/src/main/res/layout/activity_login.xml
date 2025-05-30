@@ -6,6 +6,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:padding="16dp"
+    android:backgroundTint="@color/fondo_login"
     android:background="@color/material_dynamic_neutral95"
     tools:context=".ui.auth.LoginActivity">
 
