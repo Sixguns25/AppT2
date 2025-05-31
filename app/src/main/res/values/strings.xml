@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FirebaseT2</string>
+    <string name="fondo_login_desc">Fondo de pantalla con temática de mascotas</string>
+
 </resources>
